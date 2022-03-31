@@ -1,0 +1,11 @@
+Model Information:
+* title:	Motor 3D
+* source:	https://sketchfab.com/3d-models/motor-3d-20d7a4b38b2745b9803ff65d0b95c661
+* author:	Villarreal-R (https://sketchfab.com/Villarreal-R)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Motor 3D" (https://sketchfab.com/3d-models/motor-3d-20d7a4b38b2745b9803ff65d0b95c661) by Villarreal-R (https://sketchfab.com/Villarreal-R) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
